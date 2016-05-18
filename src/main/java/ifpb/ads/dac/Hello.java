@@ -29,7 +29,7 @@ public class Hello extends HttpServlet {
             out.println("<title>Servlet Hello</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h2>Olá, " + nome + "</h2>");
+            out.println("<h2>Oi, " + nome + "</h2>");
             out.println("</body>");
             out.println("</html>");
         }
